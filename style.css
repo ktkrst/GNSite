@@ -22,7 +22,7 @@ body {
     height: 100%;
     font-size: 1em;
     background-color: rgb(0, 0, 0);
-    border-radius: 15px;
+    border-radius: 5px;
     margin-top: 70px;
 
 }
@@ -59,7 +59,7 @@ h3, label{
     position: relative;
     padding: 50px 50px;
     background: #fff;
-    border-radius: 10px;
+    border-radius: 5x;
     border: 1px solid rgb(161, 161, 161);
     display: flex;
     flex-direction: column;
@@ -141,6 +141,8 @@ h3, label{
 }
 
 .GameMenu button {
+    background: #fff;
+    border-radius: 5x;
     margin: 3px auto;
 }
 
